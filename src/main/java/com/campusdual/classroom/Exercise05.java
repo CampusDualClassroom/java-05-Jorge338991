@@ -5,7 +5,6 @@ public class Exercise05 {
 
     }
 
-
     // Si el valor es menor, tiene que devolver el siguiente mensaje: X es menor que Y
     // Si el valor es mayor o igual, tiene que devolver el siguiente mensaje: X es mayor o igual que Y
     public static void checkLessOrGreaterEqual(int n1, int n2) {
