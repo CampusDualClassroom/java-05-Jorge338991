@@ -2,7 +2,12 @@ package com.campusdual.classroom;
 
 public class Exercise05 {
     public static void main(String[] args) {
-
+        checkLessOrGreaterEqual(1,5);
+        checkLessOrGreaterEqual(8,3);
+        checkMultiply(9,3);
+        checkMultiply(9,6);
+        checkPositiveNegative(-10);
+        checkPositiveNegative(220);
     }
 
     // Si el valor es menor, tiene que devolver el siguiente mensaje: X es menor que Y
